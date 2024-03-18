@@ -1,0 +1,8 @@
+.aboutContainer {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
